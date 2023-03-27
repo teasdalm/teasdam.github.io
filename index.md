@@ -36,7 +36,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * Cassidy LM, **Teasdale MD**, Carolan S, Enright R, Werner R, Bradley DG, Finlay EK, Mattiangeli V. _Capturing goats: documenting two hundred years of mitochondrial DNA diversity among goat populations from Britain and Ireland_. [Biol Lett](https://doi.org/10.1098/rsbl.2016.0876).
 
 ## 2016
-* O’Sullivan NJ, **Teasdale MD**, Mattiangeli V, Maixner F, Pinhasi R, Bradley DG, Zink A. _A whole mitochondria analysis of the Tyrolean Iceman’s leather provides insights into the animal sources of Copper Age clothing_. [Sci Rep]([https://doi.org/10.1098/rsbl.2016.0876]).
+* O’Sullivan NJ, **Teasdale MD**, Mattiangeli V, Maixner F, Pinhasi R, Bradley DG, Zink A. _A whole mitochondria analysis of the Tyrolean Iceman’s leather provides insights into the animal sources of Copper Age clothing_. [Sci Rep](https://doi.org/10.1098/rsbl.2016.0876).
 
 * Hollund HI, **Teasdale MD**, Mattiangeli V, Sverrisdottir OÓ, Bradley DG, O’Connor T. _Pick the right pocket. Sub-sampling of bone sections to investigate diagenesis and DNA preservation_. [Int J Osteoarchaeology](https://doi.org/10.1002/oa.2544).
 
