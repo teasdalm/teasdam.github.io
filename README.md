@@ -1,3 +1,3 @@
 # Matthew Teasdale CV
 
-1 page simple markdown site
+One page simple markdown site (https://teasdalm.github.io/cv/).
