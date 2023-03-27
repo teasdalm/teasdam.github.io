@@ -40,20 +40,20 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 * Hollund HI, **Teasdale MD**, Mattiangeli V, Sverrisdottir OÓ, Bradley DG, O’Connor T. _Pick the right pocket. Sub-sampling of bone sections to investigate diagenesis and DNA preservation_. [Int J Osteoarchaeology](https://doi.org/10.1002/oa.2544).
 
-* Frantz LAF, Mullin VE, Pionnier-Capitan M, Lebrasseur O, Ollivier M, Perri A, Linderholm A, Mattiangeli V, **Teasdale MD**, Dimopoulos EA, Tresset A, Duffraisse M, McCormick F, Bartosiewicz L, Gál E, Nyerges ÉA, Sablin MV, Bréhard S, Mashkour M, Bălăşescu A, Gillet B, Hughes S, Chassaing O, Hitte C, Vigne JD, Dobney K, Hänni C, Bradley DG, Larson G. Genomic and archaeological evidence suggest a dual origin of domestic dogs. _Science_.
+* Frantz LAF, Mullin VE, Pionnier-Capitan M, Lebrasseur O, Ollivier M, Perri A, Linderholm A, Mattiangeli V, **Teasdale MD**, Dimopoulos EA, Tresset A, Duffraisse M, McCormick F, Bartosiewicz L, Gál E, Nyerges ÉA, Sablin MV, Bréhard S, Mashkour M, Bălăşescu A, Gillet B, Hughes S, Chassaing O, Hitte C, Vigne JD, Dobney K, Hänni C, Bradley DG, Larson G. _Genomic and archaeological evidence suggest a dual origin of domestic dogs_. [Science](https://www.science.org/doi/10.1126/science.aaf3161).
 
-* Martiniano R, Caffell A, Holst M, Hunter-Mann K, Montgomery J, Müldner G, McLaughlin RL, **Teasdale MD**, van Rheenen W, Veldink JH, van den Berg LH, Hardiman O, Carroll M, Roskams S, Oxley J, Morgan C, Thomas MG, Barnes I, McDonnell C, Collins MJ, Bradley DG. Genomic signals of migration and continuity in Britain before the Anglo-Saxons. _Nat Commun_.
+* Martiniano R, Caffell A, Holst M, Hunter-Mann K, Montgomery J, Müldner G, McLaughlin RL, **Teasdale MD**, van Rheenen W, Veldink JH, van den Berg LH, Hardiman O, Carroll M, Roskams S, Oxley J, Morgan C, Thomas MG, Barnes I, McDonnell C, Collins MJ, Bradley DG. _Genomic signals of migration and continuity in Britain before the Anglo-Saxons_. [Nat Commun](https://doi.org/10.1038/ncomms10326).
 
 ### 2015
-* Cassidy LM, Martiniano R, Murphy EM, **Teasdale MD**, Mallory J, Hartwell B, Bradley DG. Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome. _PNAS_ 2015.
+* Cassidy LM, Martiniano R, Murphy EM, **Teasdale MD**, Mallory J, Hartwell B, Bradley DG. _Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome_. [PNAS](https://doi.org/10.1073/pnas.1518445113).
 
-* Fiddyment S, Holsinger B, Ruzzier C, Devine A, Binois A, Albarella U, Fischer R, Nichols E, Curtis A, Cheese E, **Teasdale MD**, Checkley-Scott C, Milner SJ, Rudy KM, Johnson EJ, Vnouček J, Garrison M, McGrory S, Bradley DG, Collins MJ. Animal origin of 13th-century uterine vellum revealed using noninvasive peptide fingerprinting. _PNAS_.
+* Fiddyment S, Holsinger B, Ruzzier C, Devine A, Binois A, Albarella U, Fischer R, Nichols E, Curtis A, Cheese E, **Teasdale MD**, Checkley-Scott C, Milner SJ, Rudy KM, Johnson EJ, Vnouček J, Garrison M, McGrory S, Bradley DG, Collins MJ. _Animal origin of 13th-century uterine vellum revealed using noninvasive peptide fingerprinting_. [PNAS](https://doi.org/10.1073/pnas.1512264112).
 
-* Park S, Magee D, McGettigan P, **Teasdale MD**, Edwards C, Lohan A, Murphy A, Braud M, Donoghue M, Liu Y, Chamberlain A, Rue-Albrecht K, Schroeder S, Spillane C, Tai S, Bradley D, Sonstegard T, Loftus B, MacHugh D. Genome sequencing of the extinct Eurasian wild aurochs, Bos primigenius, illuminates the phylogeography and evolution of cattle. _Genome Biology_.
+* Park S, Magee D, McGettigan P, **Teasdale MD**, Edwards C, Lohan A, Murphy A, Braud M, Donoghue M, Liu Y, Chamberlain A, Rue-Albrecht K, Schroeder S, Spillane C, Tai S, Bradley D, Sonstegard T, Loftus B, MacHugh D. _Genome sequencing of the extinct Eurasian wild aurochs, Bos primigenius, illuminates the phylogeography and evolution of cattle_. [Genome Biology](https://doi.org/10.1186/s13059-015-0790-2).
 
-* **Teasdale MD**, van Doorn NL, Fiddyment S, Webb CC, O’Connor T, Hofreiter M, Collins MJ, Bradley DG. Paging through history: parchment as a reservoir of ancient DNA for next generation sequencing. _Philos Trans R Soc Lond B Biol Sci_.
+* **Teasdale MD**, van Doorn NL, Fiddyment S, Webb CC, O’Connor T, Hofreiter M, Collins MJ, Bradley DG. _Paging through history: parchment as a reservoir of ancient DNA for next generation sequencing_. [Philos Trans R Soc Lond B Biol Sci](https://doi.org/10.1098/rstb.2013.0379).
 
-* Hlavenková L, **Teasdale MD**, Gábor O, Nagy G, Beňuš R, Marcsik A, Pinhasi R, Hajdu T. Childhood bone tuberculosis from Roman Pécs, Hungary. _Homo_.
+* Hlavenková L, **Teasdale MD**, Gábor O, Nagy G, Beňuš R, Marcsik A, Pinhasi R, Hajdu T. _Childhood bone tuberculosis from Roman Pécs, Hungary_. [Homo](https://doi.org/10.1016/j.jchb.2014.10.001).
 
 ## 2014
-* Gamba C, Jones ER, **Teasdale MD**, McLaughlin RL, Gonzalez-Fortes G, Mattiangeli V, Domboróczki L, Kővári I, Pap I, Anders A, Whittle A, Dani J, Raczky P, Higham TFG, Hofreiter M, Bradley DG, Pinhasi R. Genome flux and stasis in a five millennium transect of European prehistory. _Nat Commun_.
+* Gamba C, Jones ER, **Teasdale MD**, McLaughlin RL, Gonzalez-Fortes G, Mattiangeli V, Domboróczki L, Kővári I, Pap I, Anders A, Whittle A, Dani J, Raczky P, Higham TFG, Hofreiter M, Bradley DG, Pinhasi R. _Genome flux and stasis in a five millennium transect of European prehistory_. [Nat Commun](https://doi.org/10.1038/ncomms6257).
