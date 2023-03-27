@@ -9,19 +9,19 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 ### 2021
 * Rossi C, Ruß-Popa G, Mattiangeli V, McDaid F, Hare AJ, Davoudi H, Laleh H, Lorzadeh Z, Khazaeli R, Fathi H, **Teasdale MD**, A’ali A, Stöllner T, Mashkour M, Daly KG. _Exceptional ancient DNA preservation and fibre remains of a Sasanian saltmine sheep mummy in Chehrābād, Iran_. [Biol Lett](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0222).
 
-* Rey-Iglesia A, Lister AM, Campos PF, Brace S, Mattiangeli V, Daly KG, **Teasdale MD**, Bradley DG, Barnes I, Hansen AJ. Exploring the phylogeography and population dynamics of the giant deer (Megaloceros giganteus) using Late Quaternary mitogenomes. _Proc Biol Sci_.
+* Rey-Iglesia A, Lister AM, Campos PF, Brace S, Mattiangeli V, Daly KG, **Teasdale MD**, Bradley DG, Barnes I, Hansen AJ. _Exploring the phylogeography and population dynamics of the giant deer (Megaloceros giganteus) using Late Quaternary mitogenomes_. [Proc Biol Sci](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1864).
 
 ### 2020
-* Rannamäe E, Saarma U, Ärmpalu-Idvand A, **Teasdale MD**, Speller C. Retroviral analysis reveals the ancient origin of Kihnu native sheep in Estonia: implications for breed conservation. _Sci Rep_.
+* Rannamäe E, Saarma U, Ärmpalu-Idvand A, **Teasdale MD**, Speller C. _Retroviral analysis reveals the ancient origin of Kihnu native sheep in Estonia: implications for breed conservation_. [Sci Rep](https://doi.org/10.1038/s41598-020-74415-z).
 
-* Kontopoulos I, Penkman K, Mullin VE, Winkelbach L, Unterländer M, Scheu A, Kreutzer S, Hansen HB, Margaryan A, **Teasdale MD**, Gehlen B, Street M, Lynnerup N, Liritzis I, Sampson A, Papageorgopoulou C, Allentoft ME, Burger J, Bradley DG, Collins MJ. Screening archaeological bone for palaeogenetic and palaeoproteomic studies. _PLoS One_.
+* Kontopoulos I, Penkman K, Mullin VE, Winkelbach L, Unterländer M, Scheu A, Kreutzer S, Hansen HB, Margaryan A, **Teasdale MD**, Gehlen B, Street M, Lynnerup N, Liritzis I, Sampson A, Papageorgopoulou C, Allentoft ME, Burger J, Bradley DG, Collins MJ. _Screening archaeological bone for palaeogenetic and palaeoproteomic studies_. [PLoS One](https://doi.org/10.1371/journal.pone.0235146).
 
-* Mattiangeli V, Cooke NP, Ó Maoldúin R, Sikora M, Mulhall I, Bradley DG, **Teasdale MD**. Genomic analysis of Irish bog butter. _Journal of Archaeological Science: Reports_.
+* Mattiangeli V, Cooke NP, Ó Maoldúin R, Sikora M, Mulhall I, Bradley DG, **Teasdale MD**. _Genomic analysis of Irish bog butter_. [Journal of Archaeological Science: Reports](https://doi.org/10.1016/j.jasrep.2020.102368).
 
 ### 2019
-* Verdugo MP, Mullin VE, Scheu A, Mattiangeli V, Daly KG, Maisano Delser P, Hare AJ, Burger J, Collins MJ, Kehati R, Hesse P, Fulton D, Sauer EW, Mohaseb FA, Davoudi H, Khazaeli R, Lhuillier J, Rapin C, Ebrahimi S, Khasanov M, Vahidi SMF, MacHugh DE, Ertuğrul O, Koukouli-Chrysanthaki C, Sampson A, Kazantzis G, Kontopoulos I, Bulatovic J, Stojanović I, Mikdad A, Benecke N, Linstädter J, Sablin M, Bendrey R, Gourichon L, Arbuckle BS, Mashkour M, Orton D, Horwitz LK, **Teasdale MD**, Bradley DG. Ancient cattle genomics, origins, and rapid turnover in the Fertile Crescent. _Science_.
+* Verdugo MP, Mullin VE, Scheu A, Mattiangeli V, Daly KG, Maisano Delser P, Hare AJ, Burger J, Collins MJ, Kehati R, Hesse P, Fulton D, Sauer EW, Mohaseb FA, Davoudi H, Khazaeli R, Lhuillier J, Rapin C, Ebrahimi S, Khasanov M, Vahidi SMF, MacHugh DE, Ertuğrul O, Koukouli-Chrysanthaki C, Sampson A, Kazantzis G, Kontopoulos I, Bulatovic J, Stojanović I, Mikdad A, Benecke N, Linstädter J, Sablin M, Bendrey R, Gourichon L, Arbuckle BS, Mashkour M, Orton D, Horwitz LK, **Teasdale MD**, Bradley DG. _Ancient cattle genomics, origins, and rapid turnover in the Fertile Crescent_. [Science](https://www.science.org/doi/10.1126/science.aav1002).
 
-* Fiddyment S, **Teasdale MD**, Vnouček J, Lévêque É, Binois A, Collins MJ. So you want to do biocodicology? A field guide to the biological analysis of parchment. _Heritage Science_.
+* Fiddyment S, **Teasdale MD**, Vnouček J, Lévêque É, Binois A, Collins MJ. _So you want to do biocodicology? A field guide to the biological analysis of parchment_. [Heritage Science]().
 
 ### 2018
 * Daly KG, Maisano Delser P, Mullin VE, Scheu A, Mattiangeli V, **Teasdale MD**, Hare AJ, Burger J, Verdugo MP, Collins MJ, Kehati R, Erek CM, Bar-Oz G, Pompanon F, Cumer T, Çakırlar C, Mohaseb AF, Decruyenaere D, Davoudi H, Çevik Ö, Rollefson G, Vigne JD, Khazaeli R, Fathi H, Doost SB, Rahimi Sorkhani R, Vahdati AA, Sauer EW, Azizi Kharanaghi H, Maziar S, Gasparian B, Pinhasi R, Martin L, Orton D, Arbuckle BS, Benecke N, Manica A, Horwitz LK, Mashkour M, Bradley DG. Ancient goat genomes reveal mosaic domestication in the Fertile Crescent. _Science_. 
