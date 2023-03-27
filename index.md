@@ -9,7 +9,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 ### 2021
 * Rossi C, Ruß-Popa G, Mattiangeli V, McDaid F, Hare AJ, Davoudi H, Laleh H, Lorzadeh Z, Khazaeli R, Fathi H, **Teasdale MD**, A’ali A, Stöllner T, Mashkour M, Daly KG. _Exceptional ancient DNA preservation and fibre remains of a Sasanian saltmine sheep mummy in Chehrābād, Iran_. [Biol Lett](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0222).
 
-* Rey-Iglesia A, Lister AM, Campos PF, Brace S, Mattiangeli V, Daly KG, **Teasdale MD**, Bradley DG, Barnes I, Hansen AJ. _Exploring the phylogeography and population dynamics of the giant deer (Megaloceros giganteus) using Late Quaternary mitogenomes_. [Proc Biol Sci](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1864).
+* Rey-Iglesia A, Lister AM, Campos PF, Brace S, Mattiangeli V, Daly KG, **Teasdale MD**, Bradley DG, Barnes I, Hansen AJ. _Exploring the phylogeography and population dynamics of the giant deer (Megaloceros giganteus) using Late Quaternary mitogenomes_. [Proc. R. Soc. B](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1864).
 
 ### 2020
 * Rannamäe E, Saarma U, Ärmpalu-Idvand A, **Teasdale MD**, Speller C. _Retroviral analysis reveals the ancient origin of Kihnu native sheep in Estonia: implications for breed conservation_. [Sci Rep](https://doi.org/10.1038/s41598-020-74415-z).
