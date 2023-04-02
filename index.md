@@ -2,9 +2,12 @@
 
 ## Biography
 
-Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformatics (2008) from [Newcastle University](https://ncl.ac.uk). He then moved to [Trinity College Dublin](https://www.tcd.ie/Genetics/molpopgen/index.php) to complete a PhD in Genetics (2013) as part of the Marie Skłodowska-Curie initial training network LeCHE, specializing in the analysis of ancient DNA (aDNA). He then conducted further postdoctoral research in archaeogenetics at Trinity College Dublin as part of the ERC funded CodeX project. Subsequently, Matthew completed a 2-year Marie Skłodowska-Curie research fellowship at the [University of York](https://www.york.ac.uk/archaeology/centres-facilities/bioarch/). In 2019 Matthew joined the [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) as a Research Associate as part of the ERC funded [Beasts to Craft](https://sites.google.com/palaeome.org/ercb2c/home) project. Matthew is currently supported by the [The Richard Lounsbery Foundation](https://www.rlounsbery.org/).
+Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformatics (2008) from [Newcastle University](https://ncl.ac.uk). He then moved to [Trinity College Dublin](https://www.tcd.ie/Genetics/molpopgen/index.php) to complete a PhD in Genetics (2013) as part of the Marie Skłodowska-Curie initial training network LeCHE, specializing in the analysis of ancient DNA (aDNA). Matthew then conducted further postdoctoral research in archaeogenetics at Trinity College Dublin as part of the ERC funded CodeX project. Followed by a Marie Skłodowska-Curie research fellowship at the [University of York](https://www.york.ac.uk/archaeology/centres-facilities/bioarch/). In 2019 Matthew joined the [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) as a Research Associate as part of the ERC funded [Beasts to Craft](https://sites.google.com/palaeome.org/ercb2c/home) project. Matthew is currently supported by the [The Richard Lounsbery Foundation](https://www.rlounsbery.org/).
 
 ## Publications 
+
+[Google Scholar](https://scholar.google.com/citations?user=vz941jAAAAAJ&hl=en)
+[ORCiD](https://orcid.org/0000-0002-7376-9975)
 
 ### 2021
 * Rossi C, Ruß-Popa G, Mattiangeli V, McDaid F, Hare AJ, Davoudi H, Laleh H, Lorzadeh Z, Khazaeli R, Fathi H, **Teasdale MD**, A’ali A, Stöllner T, Mashkour M, Daly KG. _Exceptional ancient DNA preservation and fibre remains of a Sasanian saltmine sheep mummy in Chehrābād, Iran_. [Biol Lett](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0222).
