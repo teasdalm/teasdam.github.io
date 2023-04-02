@@ -6,8 +6,8 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 ## Publications 
 
-[Google Scholar](https://scholar.google.com/citations?user=vz941jAAAAAJ&hl=en)  
-[ORCiD](https://orcid.org/0000-0002-7376-9975)
+* [Google Scholar](https://scholar.google.com/citations?user=vz941jAAAAAJ&hl=en)
+* [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
 ### 2021
 * Rossi C, Ruß-Popa G, Mattiangeli V, McDaid F, Hare AJ, Davoudi H, Laleh H, Lorzadeh Z, Khazaeli R, Fathi H, **Teasdale MD**, A’ali A, Stöllner T, Mashkour M, Daly KG. _Exceptional ancient DNA preservation and fibre remains of a Sasanian saltmine sheep mummy in Chehrābād, Iran_. [Biol Lett](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0222).
