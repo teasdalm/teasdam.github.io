@@ -39,7 +39,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 * Cassidy LM, **Teasdale MD**, Carolan S, Enright R, Werner R, Bradley DG, Finlay EK, Mattiangeli V. _Capturing goats: documenting two hundred years of mitochondrial DNA diversity among goat populations from Britain and Ireland_. [Biol Lett](https://doi.org/10.1098/rsbl.2016.0876).
 
-## 2016
+### 2016
 * O’Sullivan NJ, **Teasdale MD**, Mattiangeli V, Maixner F, Pinhasi R, Bradley DG, Zink A. _A whole mitochondria analysis of the Tyrolean Iceman’s leather provides insights into the animal sources of Copper Age clothing_. [Sci Rep](https://doi.org/10.1038/srep31279).
 
 * Hollund HI, **Teasdale MD**, Mattiangeli V, Sverrisdottir OÓ, Bradley DG, O’Connor T. _Pick the right pocket. Sub-sampling of bone sections to investigate diagenesis and DNA preservation_. [Int J Osteoarchaeology](https://doi.org/10.1002/oa.2544).
@@ -59,5 +59,5 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 * Hlavenková L, **Teasdale MD**, Gábor O, Nagy G, Beňuš R, Marcsik A, Pinhasi R, Hajdu T. _Childhood bone tuberculosis from Roman Pécs, Hungary_. [Homo](https://doi.org/10.1016/j.jchb.2014.10.001).
 
-## 2014
+### 2014
 * Gamba C, Jones ER, **Teasdale MD**, McLaughlin RL, Gonzalez-Fortes G, Mattiangeli V, Domboróczki L, Kővári I, Pap I, Anders A, Whittle A, Dani J, Raczky P, Higham TFG, Hofreiter M, Bradley DG, Pinhasi R. _Genome flux and stasis in a five millennium transect of European prehistory_. [Nat Commun](https://doi.org/10.1038/ncomms6257).
