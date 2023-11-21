@@ -2,7 +2,7 @@
 
 ## Biography
 
-Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformatics (2008) from [Newcastle University](https://ncl.ac.uk), moving to [Trinity College Dublin](https://www.tcd.ie/Genetics/molpopgen/index.php) to complete a PhD in Genetics (2013) specializing in the analysis of ancient DNA (aDNA). Matthew then conducted further postdoctoral research in archaeogenetics at Trinity College Dublin, the [University of York](https://www.york.ac.uk/archaeology/centres-facilities/bioarch/) and the [University of Cambridge](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research). In 2023 he moved back to Newcastle to join the [Bioinformatics Support Unit](https://www.ncl.ac.uk/bsu/) .
+Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformatics (2008) from [Newcastle University](https://ncl.ac.uk), moving to [Trinity College Dublin](https://www.tcd.ie/Genetics/molpopgen/index.php) to complete a PhD in Genetics (2013) where he specialised in the analysis of ancient DNA (aDNA). Matthew then conducted further postdoctoral research in archaeogenetics at Trinity College Dublin, the [University of York](https://www.york.ac.uk/archaeology/centres-facilities/bioarch/) and the [University of Cambridge](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research). In 2023 he moved back to Newcastle to join the [Bioinformatics Support Unit](https://www.ncl.ac.uk/bsu/) .
 
 ## Publications 
 
