@@ -10,6 +10,9 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * [Google Scholar](https://scholar.google.com/citations?user=vz941jAAAAAJ&hl=en)
 * [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
+### 2024
+* L’Hôte L, Light I, Mattiangeli V, **Teasdale MD**, Halpin Á, Gourichon L, Key FM, Daly KG. _An 8000 years old genome reveals the Neolithic origin of the zoonosis Brucella melitensis_. [Nat Commun](https://doi.org/10.1038/s41467-024-50536-1).
+
 ### 2021
 * Rossi C, Ruß-Popa G, Mattiangeli V, McDaid F, Hare AJ, Davoudi H, Laleh H, Lorzadeh Z, Khazaeli R, Fathi H, **Teasdale MD**, A’ali A, Stöllner T, Mashkour M, Daly KG. _Exceptional ancient DNA preservation and fibre remains of a Sasanian saltmine sheep mummy in Chehrābād, Iran_. [Biol Lett](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0222).
 
