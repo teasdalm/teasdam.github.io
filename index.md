@@ -11,6 +11,8 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
 ### 2024
+* Rossi C, Sinding MHS, Mullin VE, Scheu A, Erven JAM, Verdugo MP, Daly KG, Ciucani MM, Mattiangeli V, **Teasdale MD**, Diquelou D, Manin A, Bangsgaard P, Collins M, Lord TC, Zeibert V, Zorzin R, Vinter M, Timmons Z, Kitchener AC, Street M, Haruda AF, Tabbada K, Larson G, Frantz LAF, Gehlen B, Alhaique F, Tagliacozzo A, Fornasiero M, Pandolfi L, Karastoyanova N, Sørensen L, Kiryushin K, Ekström J, Mostadius M, Grandal-d’Anglade A, Vidal-Gorosquieta A, Benecke N, Kropp C, Grushin SP, Gilbert MTP, Merts I, Merts V, Outram AK, Rosengren E, Kosintsev P, Sablin M, Tishkin AA, Makarewicz CA, Burger J, Bradley DG. _The genomic natural history of the aurochs_. [Nature](https://doi.org/10.1038/s41586-024-08112-6). 
+
 * L’Hôte L, Light I, Mattiangeli V, **Teasdale MD**, Halpin Á, Gourichon L, Key FM, Daly KG. _An 8000 years old genome reveals the Neolithic origin of the zoonosis Brucella melitensis_. [Nat Commun](https://doi.org/10.1038/s41467-024-50536-1).
 
 ### 2021
