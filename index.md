@@ -10,6 +10,10 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * [Google Scholar](https://scholar.google.com/citations?user=vz941jAAAAAJ&hl=en)
 * [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
+### 2025
+* Daly KG, Mullin VE, Hare AJ, Halpin Á, Mattiangeli V, Teasdale MD, Rossi C, Geiger S, Krebs S, Medugorac I, Sandoval-Castellanos E, Özbaşaran M, Duru G, Gülcür S, Pöllath N, Collins M, Frantz L, Vila E, Zidarov P, Stoddart S, Boldgiv B, Orlando L, Pearson MP, Mullville J, Askeyev IV, Askeyev AO, Askeyev OV, Shaymuratova DN, Van den Hurk Y, Zeeb-Lanz A, Arbogast RM, Hemmer H, Davoudi H, Amiri S, Doost SB, Decruyenaere D, Fathi H, Khazaeli R, Hassanzadeh Y, Sardari A, Lhuillier J, Abdolahi M, Summers GD, Marro C, Bahshaliyev V, Berthon R, Çakirlar C, Benecke N, Scheu A, Burger J, Sauer E, Horwitz LK, Arbuckle B, Buitenhuis H, Gourichon L, Bulatović J, O’Connor T, Orton D, Jalabadze M, Rhodes S, Chazan M, Özkaya V, Zeder M, Atıcı L, Mashkour M, Peters J, Bradley DG. _Ancient genomics and the origin, dispersal, and development of domestic sheep_. [Science](https://doi.org/10.1126/science.adn2094). 
+
+
 ### 2024
 * Rossi C, Sinding MHS, Mullin VE, Scheu A, Erven JAM, Verdugo MP, Daly KG, Ciucani MM, Mattiangeli V, **Teasdale MD**, Diquelou D, Manin A, Bangsgaard P, Collins M, Lord TC, Zeibert V, Zorzin R, Vinter M, Timmons Z, Kitchener AC, Street M, Haruda AF, Tabbada K, Larson G, Frantz LAF, Gehlen B, Alhaique F, Tagliacozzo A, Fornasiero M, Pandolfi L, Karastoyanova N, Sørensen L, Kiryushin K, Ekström J, Mostadius M, Grandal-d’Anglade A, Vidal-Gorosquieta A, Benecke N, Kropp C, Grushin SP, Gilbert MTP, Merts I, Merts V, Outram AK, Rosengren E, Kosintsev P, Sablin M, Tishkin AA, Makarewicz CA, Burger J, Bradley DG. _The genomic natural history of the aurochs_. [Nature](https://doi.org/10.1038/s41586-024-08112-6). 
 
